@@ -1,0 +1,8 @@
+build/
+archive/
+*.img
+*.bin
+*.o
+*.elf
+qemu.log
+*.iso
